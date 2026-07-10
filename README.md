@@ -2,6 +2,7 @@ Print fan duct with logo facing up [Tree supports, .4mm nozzle, .2 layer height]
 Print shell top on the build plate [Tree supports, .4mm nozzle, .2 layer height]
 Use the OEM bottom plate of goggles.
 
+Fan duct is fixed to the the top of the top shell with super glue.
 
 Parts used:
 https://www.amazon.com/dp/B09329TYCS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
